@@ -8,4 +8,3 @@ identidad -http://dle.rae.es/?id=KtmKMfe
 rasgo -http://dle.rae.es/?id=VBX16fB
 noble -http://dle.rae.es/?id=QXmgzdH
 soberano -http://dle.rae.es/?id=Y4RFdFU
-a
