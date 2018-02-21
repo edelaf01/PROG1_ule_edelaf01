@@ -1,0 +1,10 @@
+diccionario -http://dle.rae.es/?id=DgIqVCc
+geografico -http://dle.rae.es/?id=J7OaIcO
+relativo -http://dle.rae.es/?id=VpYCENC
+poco -http://dle.rae.es/?id=TTT0e1l
+nombrar -http://dle.rae.es/?id=QZt8arq|QZupnf6
+alguien -http://dle.rae.es/?id=1oMNWvM
+identidad -http://dle.rae.es/?id=KtmKMfe
+rasgo -http://dle.rae.es/?id=VBX16fB
+noble -http://dle.rae.es/?id=QXmgzdH
+soberano -http://dle.rae.es/?id=Y4RFdFU
