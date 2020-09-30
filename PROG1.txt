@@ -8,14 +8,3 @@ identidad -http://dle.rae.es/?id=KtmKMfe
 rasgo -http://dle.rae.es/?id=VBX16fB
 noble -http://dle.rae.es/?id=QXmgzdH
 soberano -http://dle.rae.es/?id=Y4RFdFU
----------------------------------------
-programa - http://dle.rae.es/?id=UJPgYGO
-compilar - http://dle.rae.es/?id=A11NS9d
-manzana - http://dle.rae.es/?id=OItjStD
-cosa - http://dle.rae.es/?id=B3yTydM
-herradura - http://dle.rae.es/?id=KEnA2ss
-patata - http://dle.rae.es/?id=S822tOI
-cable - http://dle.rae.es/?id=6RZJCpH|6RbrjvC
-funda - http://dle.rae.es/?id=IbehO9h
-enchufe - http://dle.rae.es/?id=F5ob3O7
-dipolo - http://dle.rae.es/?id=DpwWGfw
