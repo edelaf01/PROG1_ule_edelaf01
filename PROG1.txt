@@ -8,3 +8,15 @@ identidad -http://dle.rae.es/?id=KtmKMfe
 rasgo -http://dle.rae.es/?id=VBX16fB
 noble -http://dle.rae.es/?id=QXmgzdH
 soberano -http://dle.rae.es/?id=Y4RFdFU
+
+--------------------------------------
+a -https://dle.rae.es/a?m=form
+ser -https://dle.rae.es/ser#Xe5Brrm
+modelo -https://dle.rae.es/modelo?m=form
+estracilla -https://dle.rae.es/estracilla?m=form
+albacara -https://dle.rae.es/albacara?m=form
+esfacelarse -https://dle.rae.es/esfacelarse?m=form
+modelable -https://dle.rae.es/modelable?m=form
+aedo -https://dle.rae.es/aedo#0OiFX4J
+loablemente -https://dle.rae.es/loablemente?m=form
+estrábico https://dle.rae.es/estr%C3%A1bico?m=form
